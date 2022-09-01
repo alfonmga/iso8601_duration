@@ -18,4 +18,4 @@ $ go get github.com/alfonmga/iso8601_duration
 
 ## Disclaimer
 
-I built this because I wanted to convert YouTube ISO 8601 durations to seconds. [Check out the tests](iso8601_duration_test.go) and use it at your own risk. The current implementation may panic if an invalid ISO 8601 duration string is provided.
+I built this because I wanted to convert YouTube ISO 8601 durations to seconds. [Check out the tests](iso8601_duration_test.go) and use this lib at your own risk. The current implementation may panic if an invalid ISO 8601 duration string is provided.
